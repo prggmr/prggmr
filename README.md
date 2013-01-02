@@ -1,4 +1,4 @@
 prggmr
 ======
 
-PHP Signal Processing Library
+This project has been moved http://github.com/prggmr/XPSPL
